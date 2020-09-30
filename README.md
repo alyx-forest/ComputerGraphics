@@ -1,1 +1,1 @@
-# ComputerGraphics
+# 컴퓨터 그래픽스 강의 노트 정리
